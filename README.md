@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://awesome-hermann-4a4159.netlify.app/](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://awesome-hermann-4a4159.netlify.app/](https://awesome-hermann-4a4159.netlify.app/)
+- Live Site URL: [https://awesome-hermann-4a4159.netlify.app/](https://awesome-hermann-4a4159.netlify.app/)
 
 
 ### Built with
