@@ -109,6 +109,11 @@ footer {
     text-align: center;
 }
 
+footer a {
+    color:  hsl(234, 12%, 34%);
+}
+
+
 
 /***** responsiveness in mobile **/
 
